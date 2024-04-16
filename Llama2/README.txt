@@ -1,0 +1,1 @@
+Download llama-2-7b-chat.Q8_0.gguf from https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/blob/main/llama-2-7b-chat.Q8_0.gguf to this directory
