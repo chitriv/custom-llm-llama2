@@ -17,11 +17,7 @@ Before getting our hands dirty with code, let's look at some key packages needed
 
  * [LangChain](https://www.langchain.com/): A framework that allows us to develop several applications powered by LLMs.
   
- * [LangChain](https://www.langchain.com/): A framework that allows us to develop several applications powered by LLMs.
-  
  * [Sentence Transformers](https://pypi.org/project/sentence-transformers/): A framework that provides an easy method to compute dense vector representations for sentences, paragraphs, and images by leveraging pre-trained transformer models. We are using all mini LLM v6.
-  
- * [LangChain](https://www.langchain.com/): A framework that allows us to develop several applications powered by LLMs.
   
  * [FAISS](https://python.langchain.com/docs/integrations/vectorstores/faiss/) - Facebook AI Similarity Search (Faiss) is a library for efficient similarity search and clustering of dense vectors. It allows users to index vectors and search for the most similar vectors within the index
   
